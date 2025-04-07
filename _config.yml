@@ -23,7 +23,7 @@ name                     : "Naoaki Okazaki"
 description:
   ja                     : "言語処理100本ノックは，実用的でワクワクするような課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
   en                     : "NLP 100 Exercise is a workbook designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments."
-url                      : "https://nlp100.github.io"
+url                      : "https://nlp100.github.io/2020"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/nlp100.jpg"
